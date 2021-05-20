@@ -85,6 +85,12 @@
                       <execution>
                         <id>snyk-test</id>
                         <goals>
+                          <goal>install</goal>
+                        </goals>
+                      </execution>
+                      <execution>
+                        <id>snyk-test</id>
+                        <goals>
                           <goal>test</goal>
                         </goals>
                       </execution>
