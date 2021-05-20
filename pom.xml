@@ -32,7 +32,7 @@
     </licenses>
 
     <build>
-        <pluginManagement>
+        <!--pluginManagement-->
             <plugins>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
@@ -106,7 +106,7 @@
                     </configuration>
                   </plugin>
             </plugins>
-        </pluginManagement>
+        <!--/pluginManagement-->
     </build>
 
 </project>
