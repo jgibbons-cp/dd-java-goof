@@ -83,12 +83,6 @@
                     <inherited>false</inherited>
                     <executions>
                       <execution>
-                        <id>snyk-install</id>
-                        <goals>
-                          <goal>install</goal>
-                        </goals>
-                      </execution>
-                      <execution>
                         <id>snyk-test</id>
                         <goals>
                           <goal>test</goal>
